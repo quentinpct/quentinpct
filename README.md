@@ -1,5 +1,5 @@
 👋 Je suis Quentin PCT.
-👀 Ce compte vous permettra de voir mes créations.
+<br>👀 Ce compte vous permettra de voir mes créations.
 🌱 Je suis en cours d'apprentissage.
 
 <!---
