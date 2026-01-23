@@ -1,6 +1,8 @@
-👋 Je suis Quentin PCT.
-<br>👀 Ce compte vous permettra de voir mes créations.
-🌱 Je suis en cours d'apprentissage.
+<h1>👋  Quentin PICOT </h1>
+<p>🎓  French student in networks and telecommunication</p>
+<p>🛡️  specialize in cyber</p>
+<p>📚  You can find my projects here</p>
+
 
 <!---
 quentinpct/quentinpct is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
