@@ -4,7 +4,7 @@
 <p>📚 You can find my projects here</p>
 <p>🌐 LinkedIn : www.linkedin.com/in/quentinpicot </p>
 <p>💻 Portfolio  : https://quentinpct.github.io/portfolio/main.html </p>
-<p>🔓 TryHackMe : <a href="https://tryhackme.com/p/Tik0"><img src="https://tryhackme-badges.s3.amazonaws.com/Tik0.png" alt="Your Image Badge" /></a></p>
+<p><a href="https://tryhackme.com/p/Tik0"><img src="https://tryhackme-badges.s3.amazonaws.com/Tik0.png" alt="Your Image Badge" /></a></p>
 <!---
 quentinpct/quentinpct is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
